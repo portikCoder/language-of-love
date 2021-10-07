@@ -1,4 +1,4 @@
-ABOUT: MY little solution with heart, for you _Universum_
+ABOUT: MY little solution with heart, for you
 =========================
 
 - [Pre-words](#pre-words)
