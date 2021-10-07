@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+setup.py
+logformatters.egg-info/PKG-INFO
+logformatters.egg-info/SOURCES.txt
+logformatters.egg-info/dependency_links.txt
+logformatters.egg-info/requires.txt
+logformatters.egg-info/top_level.txt
